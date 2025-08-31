@@ -1,0 +1,3 @@
+C:/Users/munas/OneDrive/Skrivebord/Personal Projects/Superliga statistik/cmake-build-debug/CMakeFiles/Superliga_statistik.dir
+C:/Users/munas/OneDrive/Skrivebord/Personal Projects/Superliga statistik/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/munas/OneDrive/Skrivebord/Personal Projects/Superliga statistik/cmake-build-debug/CMakeFiles/rebuild_cache.dir
