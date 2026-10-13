@@ -63,4 +63,3 @@ gcc main.c -o superliga
 ./superliga
 ```
 
-Stien til datafilen står i `main.c` i kaldet til `fopen`. Ret den, så den peger på den fil, du vil læse.
